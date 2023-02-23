@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278721644005",
+    "project_id": "duan01-dde44",
+    "storage_bucket": "duan01-dde44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278721644005:android:e5af89329452ca13da9b0c",
+        "android_client_info": {
+          "package_name": "com.example.movieslord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278721644005-cqnp0o8datcue405273aq18tpvcidman.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZGbMYENtR2llJqtQDsB2povVYbeZZkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278721644005-cqnp0o8datcue405273aq18tpvcidman.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

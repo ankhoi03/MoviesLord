@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Lord</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="facebook_app_id">5849849361731067</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">70b146641d5867439b7cc4e5d57a29b7</string>
+
+
+</resources>
